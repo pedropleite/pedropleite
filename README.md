@@ -7,9 +7,9 @@ Desenvolvedor front-end na semana e super-herói nas horas vagas, buscando trans
 <div>
   <a href="https://github.com/pedropleite">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropleite&layout=compact&langs_count=7&theme=dracula"/>
-    <img align="right"height="230em" margin-bottom="50em" width="40%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><br><br>
-    
-</div >
+    <img align="right"height="230em" margin-bottom="50em" width="40%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">   
+</div ><br><br><br>
+  
   <div style="display: inline_block" align="center"><br>
   <img  alt="Pedro-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img  alt="Pedro-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
