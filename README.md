@@ -1,10 +1,9 @@
 ### Olá! É um prazer te receber por aqui. 👋
 
 Desenvolvedor front-end na semana e super-herói nas horas vagas, buscando transformar sonhos em realidade por meio da programação.
-
-🔥 - Atualmente estudando Firebase.<br>
-🔧 - Possuo experiência com JavaScript.
-
+<br>
+##
+<br>
 <div>
   <a href="https://github.com/pedropleite">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropleite&layout=compact&langs_count=7&theme=dracula"/>
