@@ -11,9 +11,7 @@ Desenvolvedor front-end na semana e super-herói nas horas vagas, buscando trans
 </div ><br><br><br>
   
   <div style="display: inline_block" align="center"><br>
-  <img  alt="Pedro-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img  alt="Pedro-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img  alt="Pedro-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+<a href = ""><img src="https://badges.aleen42.com/src/react.svg" target="_blank"></a>
 </div><br>
   
   ##
