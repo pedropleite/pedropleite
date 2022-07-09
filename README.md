@@ -11,7 +11,8 @@ Desenvolvedor front-end na semana e super-herói nas horas vagas, buscando trans
 </div ><br><br><br>
   
   <div style="display: inline_block" align="center"><br>
-<a href = ""><img src="https://badges.aleen42.com/src/react.svg" target="_blank"></a>
+    <a href = ""><img src="https://badges.aleen42.com/src/react.svg" target="_blank"></a>
+    <a href = ""><img src="https://badges.aleen42.com/src/javascript.svg" target="_blank"></a>
 </div><br>
   
   ##
