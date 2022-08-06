@@ -11,8 +11,10 @@ Desenvolvedor front-end na semana e super-herói nas horas vagas, buscando trans
 </div ><br><br><br>
   
   <div style="display: inline_block" align="center"><br>
-    <a  href = ""><img style="width: 10%" src="https://badges.aleen42.com/src/react.svg" target="_blank"></a>
-    <a href = ""><img style="width: 14%" src="https://badges.aleen42.com/src/javascript.svg" target="_blank"></a>
+    <a  href = ""><img style="width: 10%" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+    <a href = ""><img style="width: 14%" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+    <a href = ""><img style="width: 12%" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" target="_blank"></a>
+    <a href = ""><img style="width: 8%" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
 </div><br>
   
   ##
