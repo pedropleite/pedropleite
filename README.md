@@ -1,6 +1,6 @@
 ### Olá! É um prazer te receber por aqui. 👋
 
-Desenvolvedor front-end na semana e super-herói nas horas vagas, buscando transformar sonhos em realidade por meio da programação.
+Desenvolvedor front-end buscando transformar sonhos em realidade por meio da programação.
 <br>
 ##
 <br>
