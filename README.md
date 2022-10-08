@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 📚 Atualmente estou estudando TypeScript e NextJS
+- 📚 Atualmente estou estudando TypeScript 
 - 📫 Meu email: pedroaksson@gmail.com
 
 <br/>
