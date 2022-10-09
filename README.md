@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Desenvolvedor Front End atualmente com foco em React e o seu universo.
+    Desenvolvedor Front End atualmente com foco em React e suas tecnologias.
   </em>
 </p>
 
