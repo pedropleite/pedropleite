@@ -32,8 +32,8 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 ### 📈 Minhas Estatísticas
 
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Principais Linguagens                                                                                                                                                                                                                                                                                                                     
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropleite&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
 <br/>
