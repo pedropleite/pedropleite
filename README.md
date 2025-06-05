@@ -34,7 +34,8 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 | Principais Linguagens                                                                                                                                                                                                                                                                                                                     
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropleite&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+![Top Languages](https://github-readme-stats-one-zeta-dw0i0hkeh6.vercel.app/api/top-langs/?username=pedropleite&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)
+
 
 <br/>
 
