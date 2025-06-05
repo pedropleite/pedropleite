@@ -25,7 +25,7 @@
 
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=react,js,redux,styledcomponents,html,css,firebase,git,docker
+[![Minhas Habilidades](https://skillicons.dev/icons?i=react,ts,js,redux,styledcomponents,html,css,firebase,git,docker
 )](https://skillicons.dev)
 
 <br/>
