@@ -36,8 +36,6 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ![Top Languages](https://github-readme-stats-one-zeta-dw0i0hkeh6.vercel.app/api/top-langs/?username=pedropleite&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact&cache_seconds=1800)
 
-
-
 <br/>
 
 💬 Quer me conhecer?
