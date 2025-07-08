@@ -12,11 +12,10 @@
 
 <p>
   <em>
-    Desenvolvedor Front End atualmente com foco em React e suas tecnologias.
+    Desenvolvedor Front End atualmente com foco em JavaScript e suas tecnologias.
   </em>
 </p>
 
-- 📚 Atualmente estou estudando TypeScript.
 - 📫 Meu email: pedroaksson@gmail.com.
 
 <br/>
